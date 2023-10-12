@@ -80,7 +80,7 @@ Go back to virtual machines in your Azure portal and click DC-1.
 <img src="https://i.imgur.com/pvSb0tR.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Copy DC-1 Public IP address.
+Copy DC-1 public IP address.
 
 <p align="center">
 <img src="https://i.imgur.com/9scInGF.png" height="80%" width="80%" alt="img"/>
