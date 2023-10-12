@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuration of DNS and CNAME records within Azure Virtual Machines</h1>
-This tutorial builds up on the previous lab (https://github.com/CollinsU99/configure-ad.git), and provides hands-on experience with configuring DNS records and CNAME records to give you a practical understanding of how they work.
+This lab builds up on the previous lab (https://github.com/CollinsU99/configure-ad.git), and provides hands-on experience with configuring DNS records and CNAME records to give you a practical understanding of how they work.
 
 <h2>Environments and Technologies Used</h2>
 
